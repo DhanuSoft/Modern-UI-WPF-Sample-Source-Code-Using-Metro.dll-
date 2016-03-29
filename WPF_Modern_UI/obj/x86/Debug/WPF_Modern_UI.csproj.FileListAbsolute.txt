@@ -1,0 +1,70 @@
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\WPF_Modern_UI.exe.config
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\WPF_Modern_UI.exe
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\WPF_Modern_UI.pdb
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\Microsoft.Windows.Shell.dll
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\MainWindow.baml
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\App.baml
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\MainWindow.g.cs
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\App.g.cs
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI_MarkupCompile.cache
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.g.resources
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.Properties.Resources.resources
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.csproj.GenerateResource.Cache
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.exe
+c:\users\7903296\documents\visual studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.pdb
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.csprojResolveAssemblyReference.cache
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\BasicPage.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\BasicPage.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\ModernWindow1.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\ModernWindow1.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\TabPage.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\TabPage.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\ListPage.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\ModernDialog.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\ListPage.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\ModernDialog.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI_MarkupCompile.lref
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\Themes\MyStyles.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\MahApps.Metro.dll
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\bin\Debug\MahApps.Metro.xml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\WPF_Modern_UI\obj\x86\Debug\Themes\ModernWindowTheme.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\WPF_Modern_UI.exe.config
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.exe
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.pdb
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\WPF_Modern_UI.exe
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\WPF_Modern_UI.pdb
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\MahApps.Metro.dll
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\bin\Debug\MahApps.Metro.xml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.csprojResolveAssemblyReference.cache
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\BasicPage.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\ListPage.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\MainWindow.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\ModernDialog.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\Themes\MyStyles.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\TabPage.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\Themes\ModernWindowTheme.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\App.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\BasicPage.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\ListPage.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\ModernDialog.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\ModernWindow1.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\TabPage.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\App.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI_MarkupCompile.cache
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI_MarkupCompile.lref
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\ModernWindow1.baml
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.g.resources
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.Properties.Resources.resources
+C:\Users\7903296\Documents\Visual Studio 2010\Projects\WPF_Modern_UI\Metro DLL\WPF_Modern_UI\obj\x86\Debug\WPF_Modern_UI.csproj.GenerateResource.Cache
